@@ -1,0 +1,15 @@
+.header a {
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: orange;
+}
+
+.header {
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
